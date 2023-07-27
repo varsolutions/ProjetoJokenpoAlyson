@@ -36,11 +36,6 @@ function analyze() {
     let ganhar = "0"
 
 
-    // lembrete para não se perde
-
-    //   0 = empate
-    //   1 = vitoria
-    //  -1 = derota
 
 
 
